@@ -1,1 +1,5 @@
-print('This is a simple calculator application.')
+print('''
+**********************************
+** Welcome to Simple Calculator **
+**********************************
+''')
